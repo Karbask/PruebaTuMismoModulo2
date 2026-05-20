@@ -1,0 +1,14 @@
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\bin\Debug\net10.0\PruebaTuMismoModulo2.exe
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\bin\Debug\net10.0\PruebaTuMismoModulo2.deps.json
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\bin\Debug\net10.0\PruebaTuMismoModulo2.runtimeconfig.json
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\bin\Debug\net10.0\PruebaTuMismoModulo2.dll
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\bin\Debug\net10.0\PruebaTuMismoModulo2.pdb
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.AssemblyInfoInputs.cache
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.AssemblyInfo.cs
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.csproj.CoreCompileInputs.cache
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.dll
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\refint\PruebaTuMismoModulo2.dll
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.pdb
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\PruebaTuMismoModulo2.genruntimeconfig.cache
+C:\Workspace\cSharProjects\PruebaTuMismoModulo2\obj\Debug\net10.0\ref\PruebaTuMismoModulo2.dll
